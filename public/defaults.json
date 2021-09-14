@@ -2,9 +2,10 @@
     "clear!": {
         "resourceId": "artifact:1823119257299321483"
     },
-    "scale":{
+    "menuScale":{
         "x":-2,
         "y":-2,
         "z":-2
     }
+}
 }
